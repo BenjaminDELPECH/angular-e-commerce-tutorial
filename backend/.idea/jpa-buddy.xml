@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="8445c5dd-5e85-4313-b2bf-bdd80be24916" />
+    <option name="reLastEntityCreationPackage" value="spring-boot-ecommerce/src/main/java/com/bdelpech/springbootecommerce" />
+    <option name="newEntityIdStrategy" />
+  </component>
+</project>
