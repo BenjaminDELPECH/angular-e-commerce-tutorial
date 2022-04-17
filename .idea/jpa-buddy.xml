@@ -3,5 +3,6 @@
   <component name="JpaBuddyIdeaProjectConfig">
     <option name="defaultUnitInitialized" value="true" />
     <option name="reverseEngineeringLastDbConnectionId" value="e7a95d8c-eb17-473d-936f-1a3915dac0c1" />
+    <option name="reLastEntityCreationPackage" value="backend/spring-boot-ecommerce/src/main/java/com/bdelpech/springbootecommerce/entity" />
   </component>
 </project>
