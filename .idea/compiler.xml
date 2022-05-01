@@ -12,11 +12,13 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-boot-ecommerce" target="11" />
+      <module name="spring-boot-ecommerce (1) (com.luv2code)" target="13" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="spring-boot-ecommerce" options="-parameters" />
+      <module name="spring-boot-ecommerce (1) (com.luv2code)" options="-parameters" />
     </option>
   </component>
 </project>

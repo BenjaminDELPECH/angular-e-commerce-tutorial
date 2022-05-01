@@ -17,7 +17,7 @@ public class Country {
     @Column(name = "name")
     private String name;
 
-    @OneToMany(mappedBy = "country")
+    @OneToMany(mappedBy = "country", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private Set<State> states = new LinkedHashSet<>();
 
     public Integer getId() {

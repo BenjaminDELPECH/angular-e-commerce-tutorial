@@ -1,2 +1,8 @@
-package com.bdelpech.springbootecommerce.dto;public class PurchaseResponse {
+package com.bdelpech.springbootecommerce.dto;
+
+import lombok.Data;
+
+@Data
+public class PurchaseResponse {
+    private final String orderTrackingNumber;
 }
